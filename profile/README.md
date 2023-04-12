@@ -1,6 +1,6 @@
 # Cetacean Research & Rescue Unit (CRRU)
 
-![banner](https://github.com/CRRU-UK/.github/raw/main/profile/banner.jpg)
+![banner](https://github.com/CRRU-UK/.github/raw/main/profile/banner.jpg?v1)
 
 🐬 🐳 🐋 🦭 🌍
 
